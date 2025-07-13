@@ -10,17 +10,25 @@ Approach: Each day, I tackle a new topic or challenge, document my process, and 
 Audience: Beginners, self-learners, and anyone interested in Android or Kotlin—join me, learn with me, or use this repo as a resource!
 
 🗂️ Repository Structure
-text
-Android-Development-Master-Journey/
-├── README.md           # Project overview (this file)
-├── Day 1/
-│   ├── README.md       # Day 1 notes and progress
-│   └── Main.kt         # Day 1 code
-├── Day 2/
-│   ├── README.md       # Day 2 notes and progress
-│   └── Main.kt         # Day 2 code
-├── ...
-└── .gitignore
+The repository is organized as follows:
+
+README.md – Project overview (this file)
+
+Day 1/ – Folder for Day 1 notes and code
+
+README.md – Day 1 notes and progress
+
+Main.kt – Day 1 code
+
+Day 2/ – Folder for Day 2 notes and code
+
+README.md – Day 2 notes and progress
+
+Main.kt – Day 2 code
+
+... – More day-wise folders as the journey continues
+
+.gitignore – Git ignore rules
 Each day’s folder contains:
 
 A README.md with that day’s goals, notes, and reflections
