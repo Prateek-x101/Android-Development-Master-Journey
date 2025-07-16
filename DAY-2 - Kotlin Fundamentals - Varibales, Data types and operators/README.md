@@ -1,4 +1,4 @@
-## Day 3: Kotlin Fundamentals - Variables, Data Types, and Operators
+## Day 2: Kotlin Fundamentals - Variables, Data Types, and Operators
 
 Today was a deep dive into the foundational building blocks of Kotlin! We covered crucial concepts that underpin how data is stored, classified, and manipulated in any Kotlin program, especially as we head towards Android development.
 
@@ -35,6 +35,6 @@ Today was a deep dive into the foundational building blocks of Kotlin! We covere
 
 ### Next Steps:
 
-Looking forward to Day 4, where we'll start exploring Control Flow (like `if`, `when`, `for`, `while`) to make our programs dynamic and responsive!
+Looking forward to Day 3, where we'll start exploring Control Flow (like `if`, `when`, `for`, `while`) to make our programs dynamic and responsive!
 
 ---
