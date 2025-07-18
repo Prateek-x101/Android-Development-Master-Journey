@@ -4,7 +4,7 @@ Today was a deep dive into the foundational building blocks of Kotlin! We covere
 
 ### Key Learnings:
 
-1.  **Variables (`val` vs. `var`):**
+1.  **Variables (`val` vs. `var`):** 
     *   Understood the difference between immutable (`val` - preferred) and mutable (`var`) variables.
     *   Explored Kotlin's powerful type inference and when explicit type declaration is necessary or beneficial for readability and safety.
     *   **Challenge/Insight:** Realized the importance of an "immutability-first" mindset to write safer, more predictable code. It's not just about whether a value *can* change, but whether it *should*.

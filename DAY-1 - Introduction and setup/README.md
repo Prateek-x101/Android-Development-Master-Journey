@@ -6,7 +6,7 @@ Welcome to Day 1 of my Android Development Master Journey!
 
 ##  Goals for Today
 
-- Set up the development environment (JDK, Kotlin, Android Studio)
+- Set up the development environment (JDK, Kotlin, Android Studio) 
 - Initialize the first Kotlin/Android project
 - Run a simple "Hello, World!" program
 - Set up Git and connect the project to GitHub
