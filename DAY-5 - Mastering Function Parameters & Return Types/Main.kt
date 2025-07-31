@@ -10,9 +10,9 @@ fun(to define a function) sayhello (to name the function) () -> (to define the f
 { (to define the function body)
     println("Hello, Kotlin World!")
 }
-
+ 
 function name : can be anything
-parameters : can be the datatypes of the parameters
+parameters : can be the datatypes of the parameters 
 mutliple paramters : separated by coma , .
 
  */
